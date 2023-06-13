@@ -1,3 +1,7 @@
 glove/*
 /embs/glove.6b.100d.txt.pt
 /glove/
+/data/
+/.data/
+/.vector_cache/
+/embs/
